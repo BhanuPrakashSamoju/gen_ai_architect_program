@@ -1,0 +1,20 @@
+{
+  "company_name": "Google",
+  "stock_code": "GOOG",
+  "news_summary": "Goldman Sachs reaffirms Buy rating for Alphabet (GOOGL), highlighting strength in cloud and AI as key growth drivers.",
+  "sentiment": "Positive",
+  "people_names": [
+    "Eric Sheridan"
+  ],
+  "places_names": [],
+  "other_companies_referred": [
+    "Goldman Sachs"
+  ],
+  "related_industries": [
+    "Technology",
+    "Cloud Computing",
+    "Artificial Intelligence"
+  ],
+  "market_implications": "The reaffirmation of a Buy rating by Goldman Sachs suggests strong investor confidence in Alphabet's growth potential, particularly in cloud and AI sectors, which may positively influence stock performance.",
+  "confidence_score": 0.9
+}
