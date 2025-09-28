@@ -1,0 +1,17 @@
+# Core orchestration and AI logic
+langchain==0.3.27
+langgraph==0.6.7
+langchain-openai==0.3.33
+langchain-community==0.3.29
+pydantic==2.11.7
+
+
+# Vector Database
+chromadb
+
+# Data handling and web requests
+pandas
+requests
+
+# For loading environment variables (e.g., API keys)
+python-dotenv
